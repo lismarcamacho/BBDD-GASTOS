@@ -26,4 +26,7 @@ Transformacion de datos desde Power Query
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/2aef5d58-e013-4ba7-b09d-66198102ceda" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/e37d5cd3-d873-49d6-8c95-bb6501dd3e0f" />
 
+## Añadiendo columnas condicionales
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/fd074b86-0adb-40b0-95ea-5421ec93beea" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/9d2e1bea-3d9a-4c98-aa3b-dc2d9e9b261c" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/d756d6f9-ec85-4e88-9586-970a0cda203f" />
