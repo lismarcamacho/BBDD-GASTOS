@@ -25,3 +25,4 @@ Transformacion de datos desde Power Query
 ## Se cambia el tipo a porcentaje
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/2aef5d58-e013-4ba7-b09d-66198102ceda" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/e37d5cd3-d873-49d6-8c95-bb6501dd3e0f" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/68c03d42-dc4b-4e7a-9819-840ab6212d19" />
