@@ -12,4 +12,8 @@ Transformacion de datos desde Power Query
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/cfafe1c9-9d92-4bcf-b40d-c8726065cb3d" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/6e8fb3af-da6a-40f0-bb7c-b5d2758c0236" />
 
-<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/f921f057-e4d4-46fb-8e94-346b32f9e2f3" />
+##Añadiendo un prefijo 
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/368349a9-be27-47aa-81d9-85b82d6957e9" />
+
+## Agregar una columna condicional
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/caca7039-3e05-4ca7-9a97-6fe9905904df" />
