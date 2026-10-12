@@ -17,3 +17,10 @@ Transformacion de datos desde Power Query
 
 ## Agregar una columna condicional
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/caca7039-3e05-4ca7-9a97-6fe9905904df" />
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/538a7230-d6e1-4fb5-8672-9d6f85368be4" />
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/76fdb58b-8342-4fe6-a1a3-465c8e978429" />
+
+## Se cambia el tipo a porcentaje
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/2aef5d58-e013-4ba7-b09d-66198102ceda" />
